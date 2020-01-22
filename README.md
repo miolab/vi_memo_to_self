@@ -1,14 +1,14 @@
 # vi_memo_to_self
 
-### vi / Vim 備忘録
+### vi / Vim チートシート
 
-自分用メモ
+自分用メモ。
 
 - バージョン確認
 
     ```
     vim --version
-    
+
     VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jun 13 2019 21:28:49)
     .
     .
