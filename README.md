@@ -8,6 +8,7 @@
 
     ```
     vim --version
+    
     VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jun 13 2019 21:28:49)
     .
     .
